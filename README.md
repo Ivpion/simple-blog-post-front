@@ -1,0 +1,1 @@
+It`s front part of simple-blog-post-CMS project
